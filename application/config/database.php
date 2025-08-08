@@ -4,9 +4,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $active_group = 'default';
 $query_builder = TRUE;
 $hostname ='localhost';
-$username ='root';
-$password ='';
-$database ='factura';	
+$username ='cesar';
+$password ='junco2020';
+$database ='factufactuok';	
 
 $db['default'] = array(
 	'dsn'	=> '',
