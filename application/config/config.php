@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 
-$config['base_url'] = 'http://facturas.test/';
+$config['base_url'] = 'http://142.93.79.5/';
 
 /*
 |--------------------------------------------------------------------------
